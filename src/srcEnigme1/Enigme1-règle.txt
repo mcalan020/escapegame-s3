@@ -1,0 +1,11 @@
+Le joueur est coince dans la piece de depart qui est verrouillee par un cadenas a trois chiffres,
+il va falloir trouver des informations dissimulees sur differents objets presents dans la piece 
+pour trouver le code g007h. 
+
+Le joueur va devoir explorer la piece a la recherche de differents objets qui permettront de trouver des informations sur le code a trouver.
+ Tous ces indices ont un rapport avec James Bond tel que sa nationalite ou le nom dfun des films.
+Il y a une etagere composee de livres et de DVD dfactions faisant reference a lfunivers James Bond et dfautres agents secrets. 
+La carte de lfangleterre servira a aiguiller la personne sur James Bond.Une carte du M.I.T sur la table de chevet
+Le code est le  matricule de James Bond (007).
+
+  
